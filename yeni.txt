@@ -1,3 +1,5 @@
 said geldi.
 
 Ali de geldi.
+
+yeni klasöre geç.
